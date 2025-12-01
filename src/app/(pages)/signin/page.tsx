@@ -1,7 +1,7 @@
 // src/app/(pages)/signin/page.tsx
 // Server Component per il layout statico
 import { Suspense } from 'react';
-import { ClientSignInForm } from '@/components/auth/clientSignInForm';
+import { ClientSignInForm } from '@/components/auth/ClientSignInForm';
 
 // Componente principale della pagina
 export default function SignInPage() {
